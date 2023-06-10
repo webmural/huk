@@ -1,0 +1,27 @@
+::selection {
+  background: #ec0;
+  color: indigo;
+}
+
+:root {
+  background: darkviolet;
+  background-image: linear-gradient(blueviolet 20%, darkviolet 50%);
+  color: seashell;
+}
+
+:any-link {
+  color: indigo;
+  background: hotpink;
+}
+
+:focus {
+  outline: 1ex groove powderblue;
+}
+
+:any-link:active {
+  color: mistyrose;
+}
+
+p {
+  background-image: conic-gradient(darkviolet 20%, blueviolet 80%);
+}

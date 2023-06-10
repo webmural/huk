@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <style>
+    svg { background: darkviolet }
+  </style>
+  <title>caterpillar</title>
+  <rect fill="hotpink" width="20%" height="100%" x="40%" />
+</svg>
